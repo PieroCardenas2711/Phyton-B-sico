@@ -1,0 +1,3 @@
+#Ejercicio 1 de Introducción al Entorno de Phyton
+num = str(input('Ingrese un número:\t'))
+print(f"El número ingresado es: {num}")
